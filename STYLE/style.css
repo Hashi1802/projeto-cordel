@@ -70,10 +70,10 @@ section.imagem{
     background-size: cover;
     background-attachment: fixed;
 }
-section#img01{background-image: url('imagens/background001.jpg');
+section#img01{background-image: url('../imagens/background001.jpg');
 background-position: right center;
 }
-section#img02{background-image: url('imagens/background002.jpg');
+section#img02{background-image: url('../imagens/background002.jpg');
     
 
 }
